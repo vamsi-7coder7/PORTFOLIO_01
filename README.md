@@ -24,5 +24,5 @@
   Add more projects to the portfolio section.
   Enhance accessibility features for better usability.
 # Author:
-ARAVETI VAMSI - [Your Portfolio Link] - vamsiaraveti4444@gmail.com 
+ARAVETI VAMSI - [https://github.com/vamsi-7coder7/PRODIGY_WD_03_PORTFOLIO.git] - vamsiaraveti4444@gmail.com 
 Feel free to fork and contribute to this project! If you have any suggestions or feedback, please don't hesitate to reach out.
