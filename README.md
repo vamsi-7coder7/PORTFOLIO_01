@@ -1,4 +1,4 @@
-# PRODIGY_PORTFOLIO
+# PORTFOLIO
   This is my personal portfolio website showcasing my skills, projects, and contact information. The website is built using HTML, CSS, and JavaScript.
 # Features:
  Navigation: Navigate through different sections of the website using the navigation bar.
